@@ -1,16 +1,16 @@
-# 3D Particle Collision Simulation
+# 3D Star Collision Simulation
 
-This Python project simulates a system of particles in 3D space, illustrating gravitational interactions and collisions. Particles move under gravitational forces, and when they collide, they merge into larger particles while conserving mass and momentum.
+This Python project simulates a system of stars in 3D space, illustrating gravitational interactions and collisions. Stars move under gravitational forces, and when they collide, they merge into larger stars while conserving mass and momentum.
 
 ![Simulation Preview](assets/demo.png) <!-- Replace with an actual screenshot path -->
 
 ## Features
 
-- **Realistic Physics**: Gravitational interactions between particles.
+- **Realistic Physics**: Gravitational interactions between stars.
 - **Star Collisions**: Stars merge on collision, conserving mass and momentum.
 - **Visualization**: 3D visualization using Matplotlib.
 - **Collision Logging**: Details of collisions are saved to a log file (`collision_log.txt`).
-- **Dynamic Annotations**: Collision count, remaining particles, and last collision details displayed during the simulation.
+- **Dynamic Annotations**: Collision count, remaining stars, and last collision details displayed during the simulation.
 
 ---
 
@@ -32,8 +32,8 @@ To install the required libraries, use the included `requirements.txt` file.
 ## Installation
 ### Clone this repository:
 ```bash
-git clone https://github.com/your-username/particle-simulation.git
-cd particle-simulation
+git clone https://github.com/your-username/star-collider.git
+cd star-simulation
 ```
 ### Install dependencies:
 ```bash
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 ```
 ### Run the script:
 ```bash
-python particle_simulation.py
+python main.py
 ```
 Enjoy!
 
