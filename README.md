@@ -7,7 +7,7 @@ This Python project simulates a system of particles in 3D space, illustrating gr
 ## Features
 
 - **Realistic Physics**: Gravitational interactions between particles.
-- **Particle Collisions**: Particles merge on collision, conserving mass and momentum.
+- **Star Collisions**: Stars merge on collision, conserving mass and momentum.
 - **Visualization**: 3D visualization using Matplotlib.
 - **Collision Logging**: Details of collisions are saved to a log file (`collision_log.txt`).
 - **Dynamic Annotations**: Collision count, remaining particles, and last collision details displayed during the simulation.
