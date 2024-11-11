@@ -2,7 +2,7 @@
 
 This Python project simulates a system of particles in 3D space, illustrating gravitational interactions and collisions. Particles move under gravitational forces, and when they collide, they merge into larger particles while conserving mass and momentum.
 
-![Simulation Preview](path/to/screenshot.png) <!-- Replace with an actual screenshot path -->
+![Simulation Preview](assets/demo.png) <!-- Replace with an actual screenshot path -->
 
 ## Features
 
